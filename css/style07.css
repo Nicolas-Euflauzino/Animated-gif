@@ -1,0 +1,20 @@
+/*RESEY CSS*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 150px;
+    font-weight: 800;
+    color: transparent;
+    background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp6dHJ3OXRsOXhyY2g5OHIxNGthdzkwN25oZzR0dXk5cnBiY3lqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
